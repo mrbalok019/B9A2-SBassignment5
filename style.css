@@ -1,0 +1,23 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+/* main {
+  margin-left: 130px;
+  margin-right: 130px;
+} */
+header {
+  margin-top: 50px;
+  margin-left: 130px;
+
+  margin-right: 130px;
+}
+li {
+  /* flex gap-10 mb-5 justify-between */
+  display: flex;
+  gap: 40px;
+  justify-content: space-between;
+}
