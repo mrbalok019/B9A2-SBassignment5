@@ -10,5 +10,5 @@ function next() {
 
 function Continue() {
   hideElementByID("success");
-  showElementByID("homeScreen");
+  showElementByID("homeScreen");...Continue.apply.
 }
